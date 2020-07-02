@@ -1,4 +1,4 @@
-
+#Carme Estruch 
 #importem la llibreria pandas i la matplotlib
 import pandas as pd
 import numpy as np
